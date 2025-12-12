@@ -1,6 +1,6 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer;
+namespace Clear01\BootstrapForm;
 
 interface IBootstrapRenderedForm
 {

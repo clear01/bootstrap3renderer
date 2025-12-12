@@ -1,8 +1,8 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer;
+namespace Clear01\BootstrapForm;
 
-use Instante\Bootstrap3Renderer\Utils\PlaceholderHtml;
+use Clear01\BootstrapForm\Utils\PlaceholderHtml;
 use Nette\SmartObject;
 use Nette\Utils\Html;
 

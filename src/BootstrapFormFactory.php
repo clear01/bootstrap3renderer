@@ -1,8 +1,8 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer;
+namespace Clear01\BootstrapForm;
 
-use Instante\ExtendedFormMacros\IFormFactory;
+
 use Nette\Forms\Form;
 use Nette\Application\UI\Form as UIForm;
 use Nette\SmartObject;

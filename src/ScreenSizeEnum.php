@@ -1,8 +1,8 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer;
+namespace Clear01\BootstrapForm;
 
-use Instante\Utils\TEnumerator;
+use Clear01\BootstrapForm\Utils\TEnumerator;
 
 class ScreenSizeEnum
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer\Controls;
+namespace Clear01\BootstrapForm\Controls;
 
 use Nette\Forms\IControl;
 use Nette\Utils\Html;

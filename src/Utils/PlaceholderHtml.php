@@ -1,6 +1,6 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer\Utils;
+namespace Clear01\BootstrapForm\Utils;
 
 use Nette\InvalidArgumentException;
 use Nette\InvalidStateException;

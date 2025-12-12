@@ -1,8 +1,8 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer\Controls;
+namespace Clear01\BootstrapForm\Controls;
 
-use Instante\ExtendedFormMacros\PairAttributes;
+use Clear01\BootstrapForm\PairAttributes;
 use Nette\Forms\IControl;
 use Nette\Utils\Html;
 

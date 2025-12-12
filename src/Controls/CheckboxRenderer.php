@@ -1,10 +1,10 @@
 <?php
 
-namespace Instante\Bootstrap3Renderer\Controls;
+namespace Clear01\BootstrapForm\Controls;
 
-use Instante\Bootstrap3Renderer\RenderModeEnum;
-use Instante\ExtendedFormMacros\PairAttributes;
-use Instante\Helpers\SecureCallHelper;
+use Clear01\BootstrapForm\RenderModeEnum;
+use Clear01\BootstrapForm\PairAttributes;
+use Clear01\BootstrapForm\Helpers\SecureCallHelper;
 use Nette\Forms\IControl;
 use Nette\InvalidArgumentException;
 use Nette\Utils\Html;
