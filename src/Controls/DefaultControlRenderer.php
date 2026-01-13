@@ -114,7 +114,7 @@ class DefaultControlRenderer implements IControlRenderer
         $r = $this->bootstrapRenderer;
         $el = $this->getControlLabel($control);
         if ($el === NULL) {
-            $el = clone $r->prototypes->emptyLabel;
+            $el = clone $r->getPrototypes()->emptyLabel;
             if (method_exists($control, 'getHtmlId')) {
                 $el->getPlaceholder()->setAttribute('for', $control->getHtmlId());
             }
